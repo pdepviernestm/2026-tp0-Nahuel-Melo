@@ -6,11 +6,7 @@
 - Legajo: 222.512-8
 
 ## Foto
-
-
-
-
-
+<img src="https://github.com/pdepviernestm/2026-tp0-Nahuel-Melo/blob/main/WhatsApp%20Image%202026-04-08%20at%2014.31.39.jpeg" height="400px">
 
 
 ## Descripción Personal
